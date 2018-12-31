@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+PZBS wdraża procedurę generowania rozkładów rozdań, która pozwala poświadczyć, że rozkłady są generowane całkowicie losowo, a organizator rozgrywek i upoważnione przez niego osoby nie mogą nimi manipulować.
 
-You can use the [editor on GitHub](https://github.com/PZBS/square-deal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Procedura jest wyjaśniona [w tym dokumencie](http://www.pzbs.pl/sedziowie/inne/procedura-generowania.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Niniejsza strona zawiera informacje umożliwiające weryfikację, że procedura została zastosowana dla wybranych rozgrywek PZBS.
 
-### Markdown
+Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na weryfikację, kiedy dokładnie poszczególne informacje były publikowane.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Rozgrywki
 
-```markdown
-Syntax highlighted code block
+### 2018-11-17 - 2. zjazd I i II ligi
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PZBS/square-deal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Hash sekretu: a65c1d0c2eee3ad349a05d7aaccd401d5d14b047397026c40fc20da217ec2a62
+* Opóźniona informacja: Wynik losowania Lotto Multi Multi z dn. 09.11.2018 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
