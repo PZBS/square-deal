@@ -14,6 +14,6 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 * Hash (SHA-256) sekretu (pliku SQK): a65c1d0c2eee3ad349a05d7aaccd401d5d14b047397026c40fc20da217ec2a62
 * Opóźniona informacja: Wynik losowania Lotto Multi Multi z dn. 09.11.2018 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
-* [Plik SQD](2018-11-17_1_2_liga.sqd)
-* [Plik SQK](2018-11-17_1_2_liga.sqk)
+* [Plik SQD](data/2018-11-17_1_2_liga.sqd)
+* [Plik SQK](data/2018-11-17_1_2_liga.sqk)
 
