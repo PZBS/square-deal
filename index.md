@@ -17,3 +17,11 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 * [Plik SQD](data/2018-11-17_1_2_liga.sqd)
 * [Plik SQK](data/2018-11-17_1_2_liga.sqk)
 
+### 2019-01-04 - 2. zjazd Ekstraklasy
+
+* [Plik SQD](data/2019-01-04_ekstraklasa.sqd)
+
+### 2019-01-05 - 3. zjazd I i II ligi
+
+* [Plik SQD](data/2019-01-05_1_2_liga.sqd)
+
