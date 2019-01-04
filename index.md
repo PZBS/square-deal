@@ -1,6 +1,6 @@
 PZBS wdraża procedurę generowania rozkładów rozdań, która pozwala poświadczyć, że rozkłady są generowane całkowicie losowo, a organizator rozgrywek i upoważnione przez niego osoby nie mogą nimi manipulować.
 
-Procedura jest wyjaśniona [w tym dokumencie](http://www.pzbs.pl/sedziowie/inne/procedura-generowania.pdf).
+Procedura jest wyjaśniona [w tym dokumencie](http://www.pzbs.pl/sedziowie/inne/procedura-generowania.pdf). Warto również zapoznać się z [instrukcją przejścia procedury krok po kroku](https://emkael.github.io/2019/01/03/generating-and-verifying-boards-with-squaredeal/) autorstwa Michała Klichowicza.
 
 Niniejsza strona zawiera informacje umożliwiające weryfikację, że procedura została zastosowana dla wybranych rozgrywek PZBS.
 
