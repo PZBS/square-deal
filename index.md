@@ -8,14 +8,11 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 ## Rozgrywki
 
-### 2018-11-17 - 2. zjazd I i II ligi
+### 2019-01-05 - 3. zjazd I i II ligi
 
-(informacja opublikowana na pzbs.pl w dniu 08.11.2018)
-
-* Hash (SHA-256) sekretu (pliku SQK): a65c1d0c2eee3ad349a05d7aaccd401d5d14b047397026c40fc20da217ec2a62
-* Opóźniona informacja: Wynik losowania Lotto Multi Multi z dn. 09.11.2018 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
-* [Plik SQD](data/2018-11-17_1_2_liga.sqd)
-* [Plik SQK](data/2018-11-17_1_2_liga.sqk)
+* [Plik SQD](data/2019-01-05_1_2_liga.sqd)
+* Wartość opóźnionej informacji: 15111922242628353755565758636970727480
+* [Plik SQK](data/2019-01-04_ekstraklasa.sqk)
 
 ### 2019-01-04 - 2. zjazd Ekstraklasy
 
@@ -23,9 +20,10 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 * Wartość opóźnionej informacji: 15111922242628353755565758636970727480
 * [Plik SQK](data/2019-01-04_ekstraklasa.sqk)
 
-### 2019-01-05 - 3. zjazd I i II ligi
+### 2018-11-17 - 2. zjazd I i II ligi
 
-* [Plik SQD](data/2019-01-05_1_2_liga.sqd)
-* Wartość opóźnionej informacji: 15111922242628353755565758636970727480
-* [Plik SQK](data/2019-01-04_ekstraklasa.sqk)
+* Hash (SHA-256) sekretu (pliku SQK): a65c1d0c2eee3ad349a05d7aaccd401d5d14b047397026c40fc20da217ec2a62 (informacja opublikowana na pzbs.pl w dniu 08.11.2018)
+* [Plik SQD](data/2018-11-17_1_2_liga.sqd)
+* Wartość opóźnionej informacji: 23456212931424346515864666770727577
+* [Plik SQK](data/2018-11-17_1_2_liga.sqk)
 
