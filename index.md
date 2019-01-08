@@ -12,7 +12,7 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 * [Plik SQD](data/2019-01-05_1_2_liga.sqd)
 * Wartość opóźnionej informacji: 15111922242628353755565758636970727480
-* [Plik SQK](data/2019-01-04_ekstraklasa.sqk)
+* [Plik SQK](data/2019-01-05_1_2_liga.sqk)
 
 ### 2019-01-04 - 2. zjazd Ekstraklasy
 
