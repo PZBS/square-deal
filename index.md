@@ -8,6 +8,14 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 ## Rozgrywki
 
+### 2019-03-01 - Mistrzostwa Polski Juniorów 19-20, 21-25
+
+* [Plik SQD](data/2019-03-01_mpj_2019.sqd)
+* Informacja opóźniona: wyniki Lotto Multi Multi z wieczora 27.02.2019 (środa), 20 liczb (bez Plusa), zapisanych rosnąco jednym ciągiem
+* Uwagi:
++ wszystkie sesje liczą 30 rozdań, ale użyte zostanie tylko tyle, ile wyniknie z przyjętej rotacji
++ jeśli w turniejach rozgrywanych równolegle ze względu na przyjętą rotację zajdzie potrzeba użycia roznych rozkładów, turniej 21-25 użyje rozkładów głównych, a turniej 19-20 rozkładów zapasowych dla danej sesji
+
 ### 2019-01-05 - 3. zjazd I i II ligi
 
 * [Plik SQD](data/2019-01-05_1_2_liga.sqd)
