@@ -12,6 +12,9 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 * [Plik SQD](data/2019-03-01_mpj_2019.sqd)
 * Informacja opóźniona: wyniki Lotto Multi Multi z wieczora 27.02.2019 (środa), 20 liczb (bez Plusa), zapisanych rosnąco jednym ciągiem
+* Wartość informacji opóźnionej: 2781019222627313244455259606263666770
+* [Plik SQK](data/2019-03-01_mpj_2019.sqk)
+* Dla sesji teamy-2 użyto rozkładów zapasowych (1)
 * Uwagi:
   * wszystkie sesje liczą 30 rozdań, ale użyte zostanie tylko tyle, ile wyniknie z przyjętej rotacji
   * jeśli w turniejach rozgrywanych równolegle ze względu na przyjętą rotację zajdzie potrzeba użycia roznych rozkładów, turniej 21-25 użyje rozkładów głównych, a turniej 19-20 rozkładów zapasowych dla danej sesji
@@ -34,4 +37,3 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 * [Plik SQD](data/2018-11-17_1_2_liga.sqd)
 * Wartość opóźnionej informacji: 23456212931424346515864666770727577
 * [Plik SQK](data/2018-11-17_1_2_liga.sqk)
-
