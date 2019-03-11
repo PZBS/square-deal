@@ -8,6 +8,12 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 ## Rozgrywki
 
+### 2019-03-15 - Kadra Mistrzowska Seniorów 2019
+
+* [Plik SQD](data/2019-03-15_kadra_seniorow.sqd)
+* Informacja opóźniona: wyniki Lotto Multi Multi z wieczora 13.03.2019 (środa), 20 liczb (bez Plusa), zapisanych rosnąco jednym ciągiem
+* 13 rund po 10 rozdań = 5 sesji po 30 rozdań (1-30, 1-30, 1-30, 1-30, 1-10)
+
 ### 2019-03-01 - Mistrzostwa Polski Juniorów 19-20, 21-25
 
 * [Plik SQD](data/2019-03-01_mpj_2019.sqd)
