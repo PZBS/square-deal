@@ -12,6 +12,8 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 * [Plik SQD](data/2019-03-15_kadra_seniorow.sqd)
 * Informacja opóźniona: wyniki Lotto Multi Multi z wieczora 13.03.2019 (środa), 20 liczb (bez Plusa), zapisanych rosnąco jednym ciągiem
+* Wartość informacji opóźnionej: 1361011141823303336414353575962747677
+* [Plik SQK](data/2019-03-15_kadra_seniorow.sqk)
 * 13 rund po 10 rozdań = 5 sesji po 30 rozdań (1-30, 1-30, 1-30, 1-30, 1-10)
 
 ### 2019-03-01 - Mistrzostwa Polski Juniorów 19-20, 21-25
