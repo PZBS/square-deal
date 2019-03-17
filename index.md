@@ -8,7 +8,7 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 ## Rozgrywki
 
-### 2019-03-15 - Kadra Mistrzowska Seniorów 2019
+### 2019-03-15 - [Kadra Mistrzowska Seniorów 2019](https://www.pzbs.pl/wyniki/kadra/2019/sen/mistrzowska/MKS.html)
 
 * [Plik SQD](data/2019-03-15_kadra_seniorow.sqd)
 * Informacja opóźniona: wyniki Lotto Multi Multi z wieczora 13.03.2019 (środa), 20 liczb (bez Plusa), zapisanych rosnąco jednym ciągiem
@@ -16,7 +16,7 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 * [Plik SQK](data/2019-03-15_kadra_seniorow.sqk)
 * 13 rund po 10 rozdań = 5 sesji po 30 rozdań (1-30, 1-30, 1-30, 1-30, 1-10)
 
-### 2019-03-01 - Mistrzostwa Polski Juniorów 19-20, 21-25
+### 2019-03-01 - [Mistrzostwa Polski Juniorów 19-20, 21-25](https://www.pzbs.pl/wyniki/turnieje/2019/mpj/)
 
 * [Plik SQD](data/2019-03-01_mpj_2019.sqd)
 * Informacja opóźniona: wyniki Lotto Multi Multi z wieczora 27.02.2019 (środa), 20 liczb (bez Plusa), zapisanych rosnąco jednym ciągiem
