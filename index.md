@@ -8,7 +8,7 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 ## Rozgrywki
 
-### 2019-05-01 - Mistrzostwa Polski Par Open 2019
+### 2019-05-01 - [Mistrzostwa Polski Par Open 2019](https://www.pzbs.pl/wyniki/turnieje/2019/mpp/1/)
 
 * [Plik SQD](data/2019-05-01_mpp_open.sqd)
 * Informacja opóźniona: wyniki losowania Lotto Multi Multi z wieczora 12.04.2019 (piątek), w kolejności rosnącej, jednym ciągiem
