@@ -12,6 +12,8 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 * [Plik SQD](data/2019-05-01_mpp_open.sqd)
 * Informacja opóźniona: wyniki losowania Lotto Multi Multi z wieczora 12.04.2019 (piątek), w kolejności rosnącej, jednym ciągiem
+* Wartość informacji opóźnionej: 710192022273136374041424647505259667278
+* [Plik SQK](data/2019-05-01_mpp_open.sqk)
 * Eliminacje: 1-30, 1-20, 1-20; Finał: 1-30, 1-30, 1-9
 
 ### 2019-03-15 - [Kadra Mistrzowska Seniorów 2019](https://www.pzbs.pl/wyniki/kadra/2019/sen/mistrzowska/MKS.html)
