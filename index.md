@@ -12,7 +12,7 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 * [Plik SQD](data/2019-06-07_eklasa_final.sqd)
 * Informacja opóźniona: wyniki losowania Lotto Multi Multi z wieczora 28.05.2019 (wtorek), w kolejności rosnącej, jednym ciągiem, bez "Plusa"
-* Półfinał 1: 3x24, półfinał 2: 3x24, finał: 4x24, mecz o 3. miejsce: 2x24
+* Półfinał 1 (Bridge24.pl): 3x24, półfinał 2 (ERA): 3x24, finał: 4x24, mecz o 3. miejsce: 2x24
 
 ### 2019-05-01 - [Mistrzostwa Polski Par Open 2019](https://www.pzbs.pl/wyniki/turnieje/2019/mpp/1/)
 
