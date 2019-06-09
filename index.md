@@ -8,7 +8,7 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 ## Rozgrywki
 
-### 2019-06-07 - Drużynowe Mistrzostwa Polski 2018/19, Final Four
+### 2019-06-07 - [Drużynowe Mistrzostwa Polski 2018/19, Final Four](https://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/playoff.html)
 
 * [Plik SQD](data/2019-06-07_eklasa_final.sqd)
 * Informacja opóźniona: wyniki losowania Lotto Multi Multi z wieczora 28.05.2019 (wtorek), w kolejności rosnącej, jednym ciągiem, bez "Plusa"
