@@ -12,6 +12,7 @@ Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na 
 
 * [Plik SQD](data/2019-06-13_mpms.sqd)
 * Informacja opóźniona: wyniki losowania Lotto Multi Multi z wieczora 12.06.2019 (środa), w kolejności rosnącej, jednym ciągiem, bez "Plusa"
+* Wartość informacji opóźnionej: 613171924293233394145474853555658636977
 * Miksty: 1-30, Open - eliminacje: 1-30, 1-10, finał: 1-26, Teamy - eliminacje: 1-30, 1-12, play-off: 1-28, Dziewczęta: 1-28
 
 ### 2019-06-07 - [Drużynowe Mistrzostwa Polski 2018/19, Final Four](https://www.pzbs.pl/wyniki/liga/liga2018-19/ekstraklasa/playoff.html)
