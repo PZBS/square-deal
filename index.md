@@ -4,7 +4,7 @@ Procedura jest wyjaśniona [w tym dokumencie](http://www.pzbs.pl/sedziowie/inne/
 
 Niniejsza strona zawiera informacje umożliwiające weryfikację, że procedura została zastosowana dla wybranych rozgrywek PZBS.
 
-Niniejsza strona jest utrzymywana w portalu GitHub.com, co pozwala również na weryfikację, kiedy dokładnie poszczególne informacje były publikowane.
+Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS/square-deal/), co pozwala również na weryfikację, kiedy dokładnie poszczególne informacje były publikowane.
 
 ## Rozgrywki
 
