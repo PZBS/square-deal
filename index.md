@@ -8,6 +8,11 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2019-10-05 - 1. zjazd I i II ligi 2019/2020
+
+* [Plik SQD](data/2019-10-05_liga12_zj1.sqd)
+* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 09.09.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+
 ### 2019-06-13 - [XXXIII Mistrzostwa Polski Młodzieży Szkolnej](https://www.pzbs.pl/wyniki/turnieje/2019/mpms/)
 
 * [Plik SQD](data/2019-06-13_mpms.sqd)
