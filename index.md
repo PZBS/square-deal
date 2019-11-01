@@ -8,6 +8,11 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2019-11-16 - 2. zjazd I i II ligi 2019/2020
+
+* [Plik SQD](data/2019-11-16_liga12_zj2.sqd)
+* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 04.11.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+
 ### 2019-11-08 - MFB Szczyrk: DMPM U-15, ODMŚlJ U-25
 
 * [Plik SQD](data/2019-11-08_szczyrk.sqd)
