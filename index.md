@@ -12,6 +12,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 * [Plik SQD](data/2019-11-08_szczyrk.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 06.11.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+* Wartość informacji opóźnionej: 37111618213234414647545663656869737678
 * 7 sesji po 32 rozdania - odpowiadających sesjom Otwartych Drużynowych Mistrzostw Śląska Juniorów U-25
 * w przypadku konieczności rozgrywania Drużynowych Mistrzostw Polski Młodzików U-15 innymi rozkładami, dla odpowiednich sesji użyte zostaną rozkłady zapasowe nr 1
 * Turniej Przyjaciół Brydża - rozkłady ogólnopolskie (O Podkowę Kasztanki Marszałka)
