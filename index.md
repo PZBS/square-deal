@@ -8,7 +8,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
-### 2019-11-08 - MFB Szczyrk: DMPM U-15, ODMŚlJ U-25
+### 2019-11-08 - [MFB Szczyrk: DMPM U-15, ODMŚlJ U-25](https://www.pzbs.pl/wyniki/turnieje/2019/szczyrk/)
 
 * [Plik SQD](data/2019-11-08_szczyrk.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 06.11.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
