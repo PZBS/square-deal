@@ -13,14 +13,15 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * [Plik SQD](data/2019-11-16_liga12_zj2.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 04.11.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
 
-### 2019-11-08 - MFB Szczyrk: DMPM U-15, ODMŚlJ U-25
+### 2019-11-08 - [MFB Szczyrk: DMPM U-15, ODMŚlJ U-25](https://www.pzbs.pl/wyniki/turnieje/2019/szczyrk/)
 
 * [Plik SQD](data/2019-11-08_szczyrk.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 06.11.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
 * Wartość informacji opóźnionej: 37111618213234414647545663656869737678
 * 7 sesji po 32 rozdania - odpowiadających sesjom Otwartych Drużynowych Mistrzostw Śląska Juniorów U-25
-* w przypadku konieczności rozgrywania Drużynowych Mistrzostw Polski Młodzików U-15 innymi rozkładami, dla odpowiednich sesji użyte zostaną rozkłady zapasowe nr 1
+* runda nr 3 w U-25: zapas z sesji 1; rundy 12-13 w U-15: zapas z sesji 6; ostatnie segmenty finału U-25: zapas z sesji 7
 * Turniej Przyjaciół Brydża - rozkłady ogólnopolskie (O Podkowę Kasztanki Marszałka)
+* [Plik SQK](data/2019-11-08_szczyrk.sqk)
 
 ### 2019-10-05 - 1. zjazd I i II ligi 2019/2020
 
