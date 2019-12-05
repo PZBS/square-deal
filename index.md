@@ -8,6 +8,12 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2019-12-13 - Finał Grand Prix Polski Teamów
+
+* [Plik SQD](data/2019-12-13_gppt.sqd)
+* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 05.12.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+* Eliminacje: 3x24+16 (el1-el4), Półfinały: 32+32 (sf: 1-4, sf2: 2-3), Finał: 36, Mecz o 3. miejsce: 24, Turniej par: 2x30
+
 ### 2019-11-16 - 2. zjazd I i II ligi 2019/2020
 
 * [Plik SQD](data/2019-11-16_liga12_zj2.sqd)
