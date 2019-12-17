@@ -8,6 +8,16 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2020-01-04 - 3. zjazd I i II ligi 2019/2020
+
+* [Plik SQD](data/2020-01-04_liga12_zj3.sqd)
+* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 18.12.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+
+### 2020-01-04 - 2. zjazd Ekstraklasy 2019/2020
+
+* [Plik SQD](data/2020-01-04_ligae_zj2.sqd)
+* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 18.12.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+
 ### 2019-12-20 - Finał Grand Prix Polski Par
 
 * [Plik SQD](data/2019-12-20_gppp.sqd)
