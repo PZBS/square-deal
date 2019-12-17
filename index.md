@@ -8,6 +8,12 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2019-12-20 - Finał Grand Prix Polski Par
+
+* [Plik SQD](data/2019-12-20_gppp.sqd)
+* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 17.12.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+* 4 sesje po 30 rozdań
+
 ### 2019-12-13 - Finał Grand Prix Polski Teamów
 
 * [Plik SQD](data/2019-12-13_gppt.sqd)
