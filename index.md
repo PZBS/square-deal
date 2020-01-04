@@ -18,7 +18,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * [Plik SQD](data/2020-01-04_ligae_zj2.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 18.12.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
 
-### [2019-12-20 - Finał Grand Prix Polski Par](https://www.pzbs.pl/wyniki/turnieje/2019/gpp/final/sesja1.html)
+### 2019-12-20 - [Finał Grand Prix Polski Par](https://www.pzbs.pl/wyniki/turnieje/2019/gpp/final/sesja1.html)
 
 * [Plik SQD](data/2019-12-20_gppp.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 17.12.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
@@ -26,7 +26,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * Wartość informacji opóźnionej: 0206182326272829353638404243475659646970
 * [Plik SQK](data/2019-12-20_gppp.sqk)
 
-### [2019-12-13 - Finał Grand Prix Polski Teamów](https://www.pzbs.pl/wyniki/turnieje/2019/gppt/index.html)
+### 2019-12-13 - [Finał Grand Prix Polski Teamów](https://www.pzbs.pl/wyniki/turnieje/2019/gppt/index.html)
 
 * [Plik SQD](data/2019-12-13_gppt.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 05.12.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
