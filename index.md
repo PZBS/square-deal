@@ -8,6 +8,13 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2020-01-17 - Kadra seniorów
+
+* [Plik SQD](data/2020-01-17_ksen.sqd)
+* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 11.01.2019 g. 14:00 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+* Kadra Mistrzowska: 4 pliki po 30 rozdań: 1-30, 1-20, 1-30, 1-30; Kadra Narodowa: 4 pliki po 32 rozdania
+* Wartość informacji opóźnionej: 910131718222427333536384953586472787980
+
 ### 2020-01-10 - [Kadra mikstowa I](https://www.pzbs.pl/wyniki/kadra/2020/mxt/1/)
 
 * [Plik SQD](data/2020-01-10_kmxt1.sqd)
@@ -20,10 +27,15 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 * [Plik SQD](data/2020-01-04_liga12_zj3.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 18.12.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+* Wartość informacji opóźnionej: 2561012151718253034354754566768697076
+* [Plik SQK](data/2020-01-04_liga12_zj3.sqk)
+
 ### 2020-01-04 - 2. zjazd Ekstraklasy 2019/2020
 
 * [Plik SQD](data/2020-01-04_ligae_zj2.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 18.12.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+* Wartość informacji opóźnionej: 2561012151718253034354754566768697076
+* [Plik SQK](data/2020-01-04_ligae_zj2.sqk)
 
 ### 2019-12-20 - [Finał Grand Prix Polski Par](https://www.pzbs.pl/wyniki/turnieje/2019/gpp/final/sesja1.html)
 
