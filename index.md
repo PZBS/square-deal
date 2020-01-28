@@ -15,12 +15,13 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * Wartość informacji opóźnionej: 910131718222427333536384953586472787980
 * [Plik SQK](data/2020-01-17_ksen.sqk)
 
-### 2020-01-10 - Kadra mikstowa I
+### 2020-01-10 - [Kadra mikstowa I](https://www.pzbs.pl/wyniki/kadra/2020/mxt/1/)
 
 * [Plik SQD](data/2020-01-10_kmxt1.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 06.01.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
 * 5 sesji po 30 rozdań
-
+* Wartość informacji opóźnionej: 578912131627384447566264677073747880
+* [Plik SQK](data/2020-01-10_kmxt1.sqk)
 
 ### 2020-01-04 - 3. zjazd I i II ligi 2019/2020
 
