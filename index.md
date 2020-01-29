@@ -15,7 +15,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ### 2020-01-17 - [Kadra seniorów](https://www.pzbs.pl/wyniki/kadra/2020/sen/20kmsleaderb.html)
 * [Plik SQD](data/2020-01-17_ksen.sqd)
-* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 11.01.2019 g. 14:00 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 11.01.2020 g. 14:00 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
 * Kadra Mistrzowska: 4 pliki po 30 rozdań: 1-30, 1-20, 1-30, 1-30; Kadra Narodowa: 4 pliki po 32 rozdania
 * Wartość informacji opóźnionej: 910131718222427333536384953586472787980
 * [Plik SQK](data/2020-01-17_ksen.sqk)
@@ -23,7 +23,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 ### 2020-01-10 - [Kadra mikstowa I](https://www.pzbs.pl/wyniki/kadra/2020/mxt/1/)
 
 * [Plik SQD](data/2020-01-10_kmxt1.sqd)
-* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 06.01.2019 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+* Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 06.01.2020 g. 21:40 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
 * 5 sesji po 30 rozdań
 * Wartość informacji opóźnionej: 578912131627384447566264677073747880
 * [Plik SQK](data/2020-01-10_kmxt1.sqk)
