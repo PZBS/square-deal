@@ -8,6 +8,11 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2020-02-07 - Kadra Krajowa open
+* [Plik SQD](data/2020-02-07_kko.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dn. 01.02.2019 g. 14:00 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
+* 4 sesje po 30 rozdań
+
 ### 2020-01-17 - [Kadra seniorów](https://www.pzbs.pl/wyniki/kadra/2020/sen/20kmsleaderb.html)
 * [Plik SQD](data/2020-01-17_ksen.sqd)
 * Informacja opóźniona: Wynik losowania Lotto Multi Multi z dn. 11.01.2019 g. 14:00 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
