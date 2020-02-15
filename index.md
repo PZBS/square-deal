@@ -9,7 +9,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 ## Rozgrywki
 
 ### 2020-02-21 - Kadra Mistrzowska open
-* [Plik SQD](data/2020-02-21_kkm.sqd)
+* [Plik SQD](data/2020-02-21_kmo.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dn. 17.02.2020 g. 14:00 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
 * 5 sesji po 30 rozdań
 
