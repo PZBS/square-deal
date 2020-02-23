@@ -8,6 +8,11 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2020-03-06 - Kadra mikstowa II
+* [Plik SQD](data/2020-03-06_kmxt2.sqd)
+* Informacja opóźniona: wynik losowania Lotto z dn. 27.02.2020 (6 liczb od najmniejszej do największej zapisane jednym ciągiem)
+* 5 sesji po 30 rozdań
+
 ### 2020-02-21 - Kadra Mistrzowska open
 * [Plik SQD](data/2020-02-21_kmo.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dn. 17.02.2020 g. 14:00 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
