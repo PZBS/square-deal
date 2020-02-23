@@ -12,6 +12,8 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * [Plik SQD](data/2020-02-21_kmo.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dn. 17.02.2020 g. 14:00 (20 liczb od najmniejszej do największej zapisane jednym ciągiem)
 * 5 sesji po 30 rozdań
+* Wartość informacji opóźnionej: 0103040711152229333536424344516668757677
+* [Plik SQK](data/2020-02-21_kmo.sqk)
 
 ### 2020-02-07 - Kadra Krajowa open
 * [Plik SQD](data/2020-02-07_kko.sqd)
