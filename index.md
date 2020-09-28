@@ -12,6 +12,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * [Plik SQD](data/2020-10-17_dmp202021_1n_zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 24 września 2020, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
+* Wartość informacji opóźnionej: 26162022242632333541424347495060616975
 
 ### 2020-10-03 - DMP 2020/21, zjazd nr 1
 * [Plik SQD](data/2020-10-03_dmp202021_zjazd1.sqd)
