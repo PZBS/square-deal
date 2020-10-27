@@ -8,13 +8,14 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
-### 2020-10-17 - DMP 2020/21, grupa 1N, zjazd nr 1
+### 2020-10-17 - [DMP 2020/21, grupa 1N, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2020-21/1liga/n/nrrleaderb.html)
 * [Plik SQD](data/2020-10-17_dmp202021_1n_zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 24 września 2020, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
 * Wartość informacji opóźnionej: 26162022242632333541424347495060616975
+* [Plik SQK](data/2020-10-17_dmp202021_1n_zjazd1.sqk)
 
-### 2020-10-03 - DMP 2020/21, zjazd nr 1
+### 2020-10-03 - [DMP 2020/21, zjazd nr 1](https://www.pzbs.pl/ligi-all/190-ekstraklasa-202021/5915-ligi-butler)
 * [Plik SQD](data/2020-10-03_dmp202021_zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 19 września 2020, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
