@@ -8,6 +8,21 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2021-06-12 - [DMP 2020/21, zjazd nr 3](https://www.pzbs.pl/ligi-all/190-ekstraklasa-202021/5915-ligi-butler)
+* [Plik SQD](data/2021-06-12_dmp202021_zjazd3.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 14 maja 2021, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 5 meczów po 24 rozdania
+
+### 2021-05-29 - [DMP 2020/21, zjazd nr 2](https://www.pzbs.pl/ligi-all/190-ekstraklasa-202021/5915-ligi-butler)
+* [Plik SQD](data/2021-05-29_dmp202021_zjazd2.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 7 maja 2021, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 5 meczów po 24 rozdania
+
+### 2021-05-28 - Ekstraklasa 2020/21, zjazd nr 2
+* [Plik SQD](data/2021-05-28_eklasa202021_zjazd2.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 14 maja 2021, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 7 meczów po 24 rozdania
+
 ### 2020-10-17 - [DMP 2020/21, grupa 1N, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2020-21/1liga/n/nrrleaderb.html)
 * [Plik SQD](data/2020-10-17_dmp202021_1n_zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 24 września 2020, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
