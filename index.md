@@ -16,6 +16,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 ### 2021-05-29 - [DMP 2020/21, zjazd nr 2](https://www.pzbs.pl/ligi-all/190-ekstraklasa-202021/5915-ligi-butler)
 * [Plik SQD](data/2021-05-29_dmp202021_zjazd2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 7 maja 2021, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* Wartość informacji opóźnionej: 29131719222331344346505154576164666970
 * 5 meczów po 24 rozdania
 
 ### 2021-05-28 - Ekstraklasa 2020/21, zjazd nr 2
