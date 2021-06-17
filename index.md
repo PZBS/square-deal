@@ -8,11 +8,13 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
-### 2021-06-12 - DMP 2020/21, zjazd nr 3
+### [2021-06-12 - DMP 2020/21, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2020-21/rozklady/)
 * [Plik SQD](data/2021-06-12_dmp202021_zjazd3.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 14 maja 2021, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 2571118343845464749505260636468717479
 * 5 meczów po 24 rozdania
+* Rozdania 13-24 meczu nr 2 zostały spalone - wylosowano nowe, nie użyto rezerwy SquareDeala
+* [Plik SQK](data/2021-06-12_dmp202021_zjazd3.sqk)
 
 ### 2021-05-29 - [DMP 2020/21, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2020-21/rozklady/)
 * [Plik SQD](data/2021-05-29_dmp202021_zjazd2.sqd)
