@@ -8,7 +8,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
-### [2021-06-12 - DMP 2020/21, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2020-21/rozklady/)
+### 2021-06-12 - [DMP 2020/21, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2020-21/rozklady/)
 * [Plik SQD](data/2021-06-12_dmp202021_zjazd3.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 14 maja 2021, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 2571118343845464749505260636468717479
