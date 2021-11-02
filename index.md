@@ -8,6 +8,11 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2021-11-20 - DMP 2021/22, zjazd nr 1
+* [Plik SQD](data/2021-11-20_dmp202122_zjazd1.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 4 listopada 2021, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 5 meczów po 24 rozdania
+
 ### 2021-11-19 - Ekstraklasa 2021/22, zjazd nr 1
 * [Plik SQD](data/2021-11-19_eklasa202122_zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 4 listopada 2021, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
