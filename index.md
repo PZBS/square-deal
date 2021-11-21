@@ -14,11 +14,13 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * Wartość informacji opóźnionej: 17151819202123293033363947485557687779
 * 5 meczów po 24 rozdania
 
-### 2021-11-19 - Ekstraklasa 2021/22, zjazd nr 1
+### 2021-11-19 - [Ekstraklasa 2021/22, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2021-22/rozklady/ekstraklasa/)
 * [Plik SQD](data/2021-11-19_eklasa202122_zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 4 listopada 2021, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 17151819202123293033363947485557687779
 * 8 meczów po 24 rozdania
+* Rozdania rundy 8 zostały spalone - użyto rezerwy nr 1
+* [Plik SQK](data/2021-11-19_eklasa202122_zjazd1.sqk)
 
 ### 2021-06-12 - [DMP 2020/21, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2020-21/rozklady/)
 * [Plik SQD](data/2021-06-12_dmp202021_zjazd3.sqd)
