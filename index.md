@@ -11,6 +11,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 ### 2021-12-18 - DMP 2021/22, zjazd nr 2
 * [Plik SQD](data/2021-12-18_dmp202122_zjazd2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 10 grudnia 2021, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* Wartość informacji opóźnionej: 113161718192325303941454951525659677072
 * 5 meczów po 24 rozdania
 
 ### 2021-11-20 - [DMP 2021/22, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2021-22/rozklady/centralne/)
