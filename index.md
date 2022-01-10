@@ -8,18 +8,20 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
-### 2022-01-08 - DMP 2020/21, zjazd nr 3
+### 2022-01-08 - [DMP 2020/21, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2021-22/rozklady/centralne/)
 * [Plik SQD](data/2022-01-08_dmp202122_zjazd3.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 20 grudnia 2021, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 2561725283136394449505355565966707273
 * 5 meczów po 24 rozdania
 * Nie zawiera rozkładów dla dwóch dodatkowych meczów grupy 1N
+* [Plik SQK](data/2022-01-08_dmp202122_zjazd3.sqk)
 
-### 2022-01-07 - Ekstraklasa 2021/22, zjazd nr 2
+### 2022-01-07 - [Ekstraklasa 2021/22, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2021-22/rozklady/ekstraklasa/)
 * [Plik SQD](data/2022-01-07_eklasa202122_zjazd2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 20 grudnia 2021, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 2561725283136394449505355565966707273
 * 7 meczów po 24 rozdania
+* [Plik SQK](data/2022-01-07_eklasa202122_zjazd2.sqk)
 
 ### 2021-12-18 - [DMP 2021/22, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2021-22/rozklady/centralne/)
 * [Plik SQD](data/2021-12-18_dmp202122_zjazd2.sqd)
