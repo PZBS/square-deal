@@ -8,6 +8,11 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2022-04-21 - Kadra Mikstowa 2
+* [Plik SQD](data/2022-04-21_kmixt2.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 13 kwietnia 2022, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 8 plików po 24 rozdania: 15 rund po 12 rozdań, ostatnia runda nieużywana
+
 ### 2022-01-08 - [DMP 2020/21, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2021-22/rozklady/centralne/)
 * [Plik SQD](data/2022-01-08_dmp202122_zjazd3.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 20 grudnia 2021, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
