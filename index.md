@@ -8,6 +8,16 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2022-10-01 - DMP 2022/23, zjazd nr 1
+* [Plik SQD](data/2022-10-01_dmp_z1.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 24 września 2022, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 5 meczów po 24 rozdania
+
+### 2022-09-30 - Ekstraklasa 2022/23, zjazd nr 1
+* [Plik SQD](data/2022-09-30_eklasa_z1.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 24 września 2022, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 8 meczów po 24 rozdania
+
 ### 2022-04-21 - [Kadra Mikstowa 2](https://wyniki.pzbs.pl/2022/kadra/mxt/2/)
 * [Plik SQD](data/2022-04-21_kmixt2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 13 kwietnia 2022, g. 21:50 (20 liczb zapisanych jednym ciągiem od najmniejszej)
