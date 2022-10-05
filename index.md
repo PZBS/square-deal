@@ -44,3 +44,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * Wartość informacji opóźnionej: 2561725283136394449505355565966707273
 * 7 meczów po 24 rozdania
 * [Plik SQK](data/2022-01-07_eklasa202122_zjazd2.sqk)
+
+---
+
+Archiwalne rozgrywki: [2021](archive/2021) [2020](archive/2020) [2018-2019](archive/2019)
