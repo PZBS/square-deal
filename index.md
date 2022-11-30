@@ -13,6 +13,11 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 22 listopada 2022, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Sesja nr 1: 32 rozdania, sesja nr 2: 30 rozdań, sesje nr 3 i 4: 30 rozdań, OTP** Zakończenie Roku: 40 rozdań
 
+### 2022-12-09 - Finał Grand Prix Polski Teamów 2022
+* [Plik SQD](data/2022-12-09_gppt.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 4 grudnia 2022, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* Eliminacje: 11 rund po 8 rozdań (2x32, 1x24), półfinał: 24 rozdania, finał: 36 rozdań
+
 ### 2022-11-19 - [DMP 2022/23, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2022-23/rozklady/centralne/)
 * [Plik SQD](data/2022-11-19_dmp_z2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 2 listopada 2022, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
