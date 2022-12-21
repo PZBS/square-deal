@@ -8,13 +8,14 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
-### 2022-12-16 - Finał Grand Prix Polski Par 2022
+### 2022-12-16 - [Finał Grand Prix Polski Par 2022](https://wyniki.pzbs.pl/2022/finalGPPP/)
 * [Plik SQD](data/2022-12-16_gppp.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 22 listopada 2022, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 512142224283031374244464852536064727475
 * Sesja nr 1: 32 rozdania, sesja nr 2: 30 rozdań, sesje nr 3 i 4: 30 rozdań, OTP** Zakończenie Roku: 40 rozdań
+* [Plik SQK](data/2022-12-16_gppp.sqk)
 
-### 2022-12-09 - Finał Grand Prix Polski Teamów 2022
+### 2022-12-09 - [Finał Grand Prix Polski Teamów 2022](https://wyniki.pzbs.pl/2022/finalGPPT/)
 * [Plik SQD](data/2022-12-09_gppt.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 4 grudnia 2022, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 56101115192735364753545559606366767880
