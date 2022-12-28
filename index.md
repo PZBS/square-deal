@@ -11,6 +11,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 ### 2023-01-14 - DMP 2022/23, zjazd nr 3
 * [Plik SQD](data/2023-01-14_dmp_z3.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 28 grudnia 2022, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* Wartość informacji opóźnionej: 112161721242728293137424547485455667879
 * 5 meczów po 24 rozdania
 
 ### 2023-01-06 - Ekstraklasa 2022/23, zjazd nr 2
