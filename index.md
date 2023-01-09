@@ -14,7 +14,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * Wartość informacji opóźnionej: 112161721242728293137424547485455667879
 * 5 meczów po 24 rozdania
 
-### 2023-01-06 - [Ekstraklasa 2022/23, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2022-23/rozklady/ekstaklasa/)
+### 2023-01-06 - [Ekstraklasa 2022/23, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2022-23/rozklady/ekstraklasa/)
 * [Plik SQD](data/2023-01-06_eklasa_z2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 1 stycznia 2023, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 1371011182628303135385056596365707579
@@ -50,7 +50,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * 5 meczów po 24 rozdania
 * [Plik SQK](data/2022-10-01_dmp_z1.sqk)
 
-### 2022-09-30 - [Ekstraklasa 2022/23, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2022-23/rozklady/ekstaklasa/)
+### 2022-09-30 - [Ekstraklasa 2022/23, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2022-23/rozklady/ekstraklasa/)
 * [Plik SQD](data/2022-09-30_eklasa_z1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 24 września 2022, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 348912252833385053555861636566697478
