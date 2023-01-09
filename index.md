@@ -13,10 +13,12 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 28 grudnia 2022, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
 
-### 2023-01-06 - Ekstraklasa 2022/23, zjazd nr 2
+### 2023-01-06 - [Ekstraklasa 2022/23, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2022-23/rozklady/ekstaklasa/)
 * [Plik SQD](data/2023-01-06_eklasa_z2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 1 stycznia 2023, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* Wartość informacji opóźnionej: 1371011182628303135385056596365707579
 * 8 meczów po 24 rozdania
+* [Plik SQK](data/2023-01-06_eklasa_z2.sqk)
 
 ### 2022-12-16 - [Finał Grand Prix Polski Par 2022](https://wyniki.pzbs.pl/2022/finalGPPP/)
 * [Plik SQD](data/2022-12-16_gppp.sqd)
