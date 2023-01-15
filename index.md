@@ -13,6 +13,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 28 grudnia 2022, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 112161721242728293137424547485455667879
 * 5 meczów po 24 rozdania
+* [Plik SQK](data/2023-01-14_dmp_z3.sqk)
 
 ### 2022-12-16 - [Finał Grand Prix Polski Par 2022](https://wyniki.pzbs.pl/2022/finalGPPP/)
 * [Plik SQD](data/2022-12-16_gppp.sqd)
