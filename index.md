@@ -8,7 +8,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
-### 2023-10-07 - DMP 2022/23, zjazd nr 1
+### 2023-10-07 - DMP 2023/24, zjazd nr 1
 * [Plik SQD](data/2023-10-07_dmp_z1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 11 września 2023, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
