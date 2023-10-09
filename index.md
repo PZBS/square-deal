@@ -8,14 +8,14 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
-### 2023-10-07 - DMP 2023/24, zjazd nr 1
+### 2023-10-07 - [DMP 2023/24, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2022-23/rozklady/centralne/)
 * [Plik SQD](data/2023-10-07_dmp_z1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 11 września 2023, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 34101115182021232536384044454860647480
 * 5 meczów po 24 rozdania
 * [Plik SQK](data/2023-10-07_dmp_z1.sqk)
 
-### 2023-10-06 - Ekstraklasa 2023/24, zjazd nr 1
+### 2023-10-06 - [Ekstraklasa 2023/24, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/ekstraklasa/)
 * [Plik SQD](data/2023-10-06_eklasa_z1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 11 września 2023, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 34101115182021232536384044454860647480
