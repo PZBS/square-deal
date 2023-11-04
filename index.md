@@ -8,6 +8,11 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2023-11-18 - [DMP 2023/24, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/centralne/)
+* [Plik SQD](data/2023-11-18_dmp_z2.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 11 września 2023, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 5 meczów po 24 rozdania
+
 ### 2023-10-07 - [DMP 2023/24, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/centralne/)
 * [Plik SQD](data/2023-10-07_dmp_z1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 11 września 2023, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
