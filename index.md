@@ -13,6 +13,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 4 listopada 2023, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 122242531343637383941444854566465687779
 * 5 meczów po 24 rozdania
+* [Plik SQK](data/2023-11-18_dmp_z2.sqk)
 
 ### 2023-10-07 - [DMP 2023/24, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/centralne/)
 * [Plik SQD](data/2023-10-07_dmp_z1.sqd)
