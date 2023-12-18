@@ -11,6 +11,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 ### 2024-01-05 - [Ekstraklasa 2023/24, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/ekstraklasa/)
 * [Plik SQD](data/2024-01-05_eklasa_z2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 17 grudnia 2023, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* Wartość informacji opóźnionej: 23242631343638484950565862656871737779
 * 8 meczów po 24 rozdania
 
 ### 2023-11-18 - [DMP 2023/24, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/centralne/)
