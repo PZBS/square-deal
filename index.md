@@ -8,6 +8,11 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 
 ## Rozgrywki
 
+### 2024-01-20 - [DMP 2023/24, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/centralne/)
+* [Plik SQD](data/2024-01-20_dmp_z3.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 8 stycznia 2024, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 5 meczów po 24 rozdania
+
 ### 2024-01-05 - [Ekstraklasa 2023/24, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/ekstraklasa/)
 * [Plik SQD](data/2024-01-05_eklasa_z2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 17 grudnia 2023, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
