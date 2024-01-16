@@ -1,10 +1,22 @@
 PZBS wdraża procedurę generowania rozkładów rozdań, która pozwala poświadczyć, że rozkłady są generowane całkowicie losowo, a organizator rozgrywek i upoważnione przez niego osoby nie mogą nimi manipulować.
 
+## Opis procedury
+
 Procedura jest wyjaśniona [w tym dokumencie](http://www.pzbs.pl/sedziowie/inne/procedura-generowania.pdf). Warto również zapoznać się z [instrukcją przejścia procedury krok po kroku](https://emkael.github.io/2019/01/03/generating-and-verifying-boards-with-squaredeal/) autorstwa Michała Klichowicza.
 
 Niniejsza strona zawiera informacje umożliwiające weryfikację, że procedura została zastosowana dla wybranych rozgrywek PZBS.
 
 Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS/square-deal/), co pozwala również na weryfikację, kiedy dokładnie poszczególne informacje były publikowane.
+
+## Oprogramowanie SquareDeal
+
+Weryfikacja, poprzez potwierdzenie wygenerowania rozkładów identycznych z użytymi w zawodach, przebiegnie poprawnie wyłącznie w przypadku użycia tej samej wersji oprogramowania SquareDeal, której użyto do wygenerowania rozdań na zawody.
+
+Rozdania generowane są przy użyciu wersji 1.3(beta), dostępnej do pobrania poniżej:
+
+[SquareDeal-1.3.zip](binaries/SquareDeal-1.3.zip), rozmiar: 2.3MB, suma kontrolna SHA-256: `a954d6b1f98367fd4e6a77b261ae3c0b4f7cf902acae6f92c26709022c2a15c7`
+
+Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi samymi informacjami źródłowymi może doprowadzić do wygenerowania innych rozkładów niż użyte na zawodach.
 
 ## Rozgrywki
 
