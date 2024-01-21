@@ -13,6 +13,7 @@ Niniejsza strona jest [utrzymywana w portalu GitHub.com](https://github.com/PZBS
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 8 stycznia 2024, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * Wartość informacji opóźnionej: 59101920242829343738404558636567707678
 * 5 meczów po 24 rozdania
+* [Plik SQK](data/2024-01-20_dmp_z3.sqk)
 
 ### 2024-01-05 - [Ekstraklasa 2023/24, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/ekstraklasa/)
 * [Plik SQD](data/2024-01-05_eklasa_z2.sqd)
