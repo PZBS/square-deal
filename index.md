@@ -20,6 +20,11 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 
 ## Rozgrywki
 
+### 2024-09-25 - DMP 2024/25, zjazd nr 1
+* [Plik SQD](data/2024-09-25_DMP2425-zjazd1.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 29 września 2024, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 5 meczów po 24 rozdania
+
 ### 2024-01-20 - [DMP 2023/24, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/centralne/)
 * [Plik SQD](data/2024-01-20_dmp_z3.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 8 stycznia 2024, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
