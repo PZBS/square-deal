@@ -20,6 +20,11 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 
 ## Rozgrywki
 
+### 2024-09-28 - Ekstraklasa 2024/25, zjazd nr 1
+* [Plik SQD](data/2024-09-28_eklasa2425z1.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 29 września 2024, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 8 meczów po 24 rozdania
+
 ### 2024-09-25 - DMP 2024/25, zjazd nr 1
 * [Plik SQD](data/2024-09-25_DMP2425-zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 29 września 2024, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
