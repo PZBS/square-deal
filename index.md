@@ -25,12 +25,14 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 29 września 2024, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 8 meczów po 24 rozdania
 * Wartość informacji opóźnionej: 6791018222541425255575863667073747780
+* [Plik SQK](data/2024-09-28_eklasa2425z1.sqk)
 
 ### 2024-09-25 - DMP 2024/25, zjazd nr 1
 * [Plik SQD](data/2024-09-25_DMP2425-zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 29 września 2024, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
 * Wartość informacji opóźnionej: 714152021263032363739516469717374757879
+* [Plik SQK](data/2024-09-25_DMP2425-zjazd1.sqk)
 
 ### 2024-01-20 - [DMP 2023/24, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2023-24/rozklady/centralne/)
 * [Plik SQD](data/2024-01-20_dmp_z3.sqd)
