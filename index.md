@@ -20,10 +20,11 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 
 ## Rozgrywki
 
-### 2024-09-01 - DMP 2024/25, zjazd nr 2
+### 2024-11-01 - DMP 2024/25, zjazd nr 2
 * [Plik SQD](data/2024-11-01_DMP2425-zjazd2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 2 listopada 2024, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
+* Wartość informacji opóźnionej: 69182425303339434546545562686970757680
 
 ### 2024-09-28 - [Ekstraklasa 2024/25, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2024-25/boards/)
 * [Plik SQD](data/2024-09-28_eklasa2425z1.sqd)
