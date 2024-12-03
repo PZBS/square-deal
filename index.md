@@ -20,6 +20,11 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 
 ## Rozgrywki
 
+### 2024-12-03 - [Finał Grand Prix Polski Teamów 2024)
+* [Plik SQD](data/2024-12-03_FinalGPPT.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 5 grudnia 2024, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* RR 1-32, 1-16, 1-24, 1-16, SF 2 x 1-32, Finał 2 x 1-36
+
 ### 2024-11-01 - [DMP 2024/25, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2024-25/rozdania/)
 * [Plik SQD](data/2024-11-01_DMP2425-zjazd2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 2 listopada 2024, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
