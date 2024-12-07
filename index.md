@@ -20,15 +20,17 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 
 ## Rozgrywki
 
-### 2024-12-03 - [Finał Grand Prix Polski Par 2024)
+### 2024-12-03 - Finał Grand Prix Polski Par 2024
 * [Plik SQD](data/2024-12-03_FinalGPPP.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 5 grudnia 2024, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 1-32, 4 x 1-30 (sesja 2, Finaly A-B, Final A sesja 2, OTP)
+* Wartość informacji opóźnionej: 1481215262731424448495762636572757780
 
-### 2024-12-03 - [Finał Grand Prix Polski Teamów 2024)
+### 2024-12-03 - Finał Grand Prix Polski Teamów 2024
 * [Plik SQD](data/2024-12-03_FinalGPPT.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 5 grudnia 2024, g. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * RR 1-32, 1-16, 1-24, 1-16, SF 2 x 1-32, Finał 2 x 1-36
+* Wartość informacji opóźnionej: 59101112223536464952575961626368777880
 
 ### 2024-11-01 - [DMP 2024/25, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2024-25/rozdania/)
 * [Plik SQD](data/2024-11-01_DMP2425-zjazd2.sqd)
