@@ -24,6 +24,7 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 * [Plik SQD](data/2025-01-03_DMP2425-zjazd3.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 3 stycznia 2025, godz. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
+* Wartość informacji opóźnionej: 59111517212426273841424658596368697680
 
 ### 2024-12-03 - [Finał Grand Prix Polski Par 2024](https://wyniki.pzbs.pl/2024/finalGPPP/1/)
 * [Plik SQD](data/2024-12-03_FinalGPPP2024.sqd)
