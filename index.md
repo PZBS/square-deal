@@ -20,6 +20,11 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 
 ## Rozgrywki
 
+### 2024-09-28 - [Ekstraklasa 2024/25, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2024-25/boards/)
+* [Plik SQD](data/2025-01-03_eklasa2425z2.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 4 stycznia 2025, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 7 meczów po 24 rozdania
+
 ### 2025-01-03 - [DMP 2024/25, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2024-25/rozdania/)
 * [Plik SQD](data/2025-01-03_DMP2425-zjazd3.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 3 stycznia 2025, godz. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
