@@ -20,6 +20,11 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 
 ## Rozgrywki
 
+### 2025-01-03 - [DMP 2024/25, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2024-25/rozdania/)
+* [Plik SQD](data/2025-01-03_DMP2425-zjazd3.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 3 stycznia 2025, godz. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 5 meczów po 24 rozdania
+
 ### 2024-12-03 - [Finał Grand Prix Polski Par 2024)
 * [Plik SQD](data/2024-12-03_FinalGPPP.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 5 grudnia 2024, g. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
