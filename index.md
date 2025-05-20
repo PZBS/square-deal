@@ -19,6 +19,10 @@ Rozdania generowane są przy użyciu wersji 1.3(beta), dostępnej do pobrania po
 Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi samymi informacjami źródłowymi może doprowadzić do wygenerowania innych rozkładów niż użyte na zawodach.
 
 ## Rozgrywki
+### 2025-05-20 - [Ekstraklasa 2024/25, Final Four]
+* Plik SQD
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 27 maja 2025, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 13 plików 24 rozdaniowych, w kolejnoci: sfT1-1, sfT1-2, sfT1-3, sfT2-1, sfT2-2, sfT2-3, f1, f2, f3, f4, po1, po2, po3
 
 ### 2025-01-04 - [Ekstraklasa 2024/25, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2024-25/boards/)
 * [Plik SQD](data/2025-01-03_eklasa2425z2.sqd)
