@@ -19,17 +19,21 @@ Rozdania generowane są przy użyciu wersji 1.3(beta), dostępnej do pobrania po
 Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi samymi informacjami źródłowymi może doprowadzić do wygenerowania innych rozkładów niż użyte na zawodach.
 
 ## Rozgrywki
-### 2025-09-16 - [Ekstraklasa 2025/26, zjazd nr 1]
+### 2025-09-16 - [Ekstraklasa 2025/26, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2025-26/boards/)
 * [Plik SQD](data/2025-09-16_eklasa2526-zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 19 września 2025, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 7 meczów po 24 rozdania
+* Wartość informacji opóźnionej: 1351619262730394346495760646870717280
+* [Plik SQD](data/2025-09-16_eklasa2526-zjazd1.sqk)
 
-### 2025-09-16 - [DMP 2025/26, zjazd nr 1]
+### 2025-09-16 - [DMP 2025/26, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2025-26/rozdania/)
 * [Plik SQD](data/2025-09-16_DMP2526-zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 19 września 2025, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
+* Wartość informacji opóźnionej: 1351619262730394346495760646870717280
+* [Plik SQD](data/2025-09-16_DMP2526-zjazd1.sqk)
 
-### 2025-05-20 - [Ekstraklasa 2024/25, Final Four]
+### 2025-05-20 - [Ekstraklasa 2024/25, Final Four](https://wyniki.pzbs.pl/liga/liga2024-25/boards/)
 * [Plik SQD](data/2025-05-30-FF25.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 27 maja 2025, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 13 plików 24 rozdaniowych, w kolejności: sfT1-1, sfT1-2, sfT1-3, sfT2-1, sfT2-2, sfT2-3, f1, f2, f3, f4, po1, po2, po3
