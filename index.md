@@ -20,7 +20,7 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 
 ## Rozgrywki
 ### 2025-09-16 - [DMP 2025/26, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2025-26/rozdania/)
-* [Plik SQD](data/2025-09-16_DMP2526-zjazd1.sqd)
+* [Plik SQD](data/2025-10-28_DMP2526-zjazd2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 29 pażdziernika 2025, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
 * Wartość informacji opóźnionej: 
