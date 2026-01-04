@@ -19,6 +19,11 @@ Rozdania generowane są przy użyciu wersji 1.3(beta), dostępnej do pobrania po
 Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi samymi informacjami źródłowymi może doprowadzić do wygenerowania innych rozkładów niż użyte na zawodach.
 
 ## Rozgrywki
+### 2026-01-04 - [Ekstraklasa 2025/26, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2025-26/boards/)
+* [Plik SQD](data/2026-01-04_eklasa2526-z2.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 5 stycznia 2026, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 8 meczów po 24 rozdania
+
 ### 2025-12-12 - [DMP 2025/26, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2025-26/rozdania/)
 * [Plik SQD](data/2025-12-12_DMP2526-zjazd3.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 13 grudnia 2025, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
