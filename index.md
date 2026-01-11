@@ -23,11 +23,15 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 * [Plik SQD](data/2026-01-04_eklasa2526-z2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 5 stycznia 2026, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 8 meczów po 24 rozdania
+* Wartość informacji opóźnionej: 2781014151618192325262730323640467980
+* [Plik SQK](data/2026-01-04_eklasa2526-z2.sqk)
 
 ### 2025-12-12 - [DMP 2025/26, zjazd nr 3](https://wyniki.pzbs.pl/liga/liga2025-26/rozdania/)
 * [Plik SQD](data/2025-12-12_DMP2526-zjazd3.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 13 grudnia 2025, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 meczów po 24 rozdania
+* Wartość informacji opóźnionej: 810121319242527303136414243485355637078
+* [Plik SQK](data/2025-12-12_DMP2526-zjazd3.sqk)
 
 ### 2025-09-16 - [DMP 2025/26, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2025-26/rozdania/)
 * [Plik SQD](data/2025-10-28_DMP2526-zjazd2.sqd)
