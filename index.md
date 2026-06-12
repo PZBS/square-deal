@@ -23,6 +23,8 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 * [Plik SQD](data/2026-05-25_FinalFour.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 25 maja 2026, godz. 22:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 13 segmentów po 24 rozdania
+* Wartość informacji opóźnionej: 2691822313436394345535559616367737779
+* [Plik SQK](data/2026-05-25_FinalFour.sqk)
 
 ### 2026-01-04 - [Ekstraklasa 2025/26, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2025-26/boards/)
 * [Plik SQD](data/2026-01-04_eklasa2526-z2.sqd)
