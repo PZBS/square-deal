@@ -23,6 +23,7 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 * [Plik SQD](data/2026-09-16_DMP2627-zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 16 września 2026, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 segmentów po 24 rozdania
+* Wartość informacji opóźnionej: 3561120222326273134404652546369747980
 
 ### 2026-05-25 - [DMP 2025/26, Final Four](https://wyniki.pzbs.pl/liga/liga2025-26/)
 * [Plik SQD](data/2026-05-25_FinalFour.sqd)
