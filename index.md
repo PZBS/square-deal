@@ -19,6 +19,11 @@ Rozdania generowane są przy użyciu wersji 1.3(beta), dostępnej do pobrania po
 Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi samymi informacjami źródłowymi może doprowadzić do wygenerowania innych rozkładów niż użyte na zawodach.
 
 ## Rozgrywki
+### 2026-09-24 - [Ekstraklasa 2026/27, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2026-27/)
+* [Plik SQD](data/2026-09-24_eklasa2627-z1.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 25 września 2026, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+* 7 segmentów po 24 rozdania
+
 ### 2026-09-15 - [DMP 2026/27, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2026-27/)
 * [Plik SQD](data/2026-09-16_DMP2627-zjazd1.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 16 września 2026, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
