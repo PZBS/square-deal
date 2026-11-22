@@ -19,6 +19,14 @@ Rozdania generowane są przy użyciu wersji 1.3(beta), dostępnej do pobrania po
 Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi samymi informacjami źródłowymi może doprowadzić do wygenerowania innych rozkładów niż użyte na zawodach.
 
 ## Rozgrywki
+### 2026-11-22 - [Finał GPPT 2026](https://www.pzbs.pl/zapowiedzi/10058-final-budimex-gppt-2026-komunikat)
+* [Plik SQD](data/2026-11-22_FinGPPT.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 9 grudnia 2026, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+
+### 2026-11-22 - [Finał GPPP 2026](https://www.pzbs.pl/zapowiedzi/10033-budimex-grand-prix-polski-par-2026-fina-komunikat-organizacyjny)
+* [Plik SQD](data/2026-11-22_FinGPPP.sqd)
+* Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 25 listopada 2026, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
+
 ### 2026-11-07 - [DMP 2026/27, zjazd nr 2](https://wyniki.pzbs.pl/liga/liga2026-27/)
 * [Plik SQD](data/2026-11-07_DMP2627-zjazd2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 8 listopada 2026, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
