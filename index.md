@@ -23,6 +23,8 @@ Użycie innej (nowszej lub starszej) wersji oprogramowania SquareDeal z tymi sam
 * [Plik SQD](data/2026-11-07_DMP2627-zjazd2.sqd)
 * Informacja opóźniona: wynik losowania Lotto Multi Multi z dnia 8 listopada 2026, godz. 14:00 (20 liczb zapisanych jednym ciągiem od najmniejszej)
 * 5 segmentów po 24 rozdania
+* Wartość informacji opóźnionej: 1271121232528303337454753676970727375
+* [Plik SQK](data/2026-11-07_DMP2627-zjazd2.sqk)
 
 ### 2026-09-24 - [Ekstraklasa 2026/27, zjazd nr 1](https://wyniki.pzbs.pl/liga/liga2026-27/)
 * [Plik SQD](data/2026-09-24_eklasa2627-z1.sqd)
